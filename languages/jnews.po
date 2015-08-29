@@ -1,0 +1,722 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jNewsticker for Wordpress v1.1.15\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-04 18:25+0930\n"
+"PO-Revision-Date: 2015-02-04 18:25+0930\n"
+"Last-Translator: Eric Daams <eric@164a.com>\n"
+"Language-Team: \n"
+"Language: en_AU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-"
+"content/plugins/jnewsticker-for-wordpress\n"
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_source.class.php:178
+#, php-format
+msgid "Add another %s"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_source.class.php:220
+msgid "Remove"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_source.class.php:437
+msgid "Formatting"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_source.class.php:443
+#, php-format
+msgid "Available variables: %s"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:17
+msgid "Facebook Page"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:19
+msgid "Displays most items from a Facebook page"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:23
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:28
+msgid "Display name of author"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:27
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:36
+msgid "Display excerpt of item"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:31
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:40
+msgid "Display link to item"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:35
+msgid "Display link to Facebook page"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:39
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:44
+msgid "Display date item was posted"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:43
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:48
+msgid "Display the time elapsd since the item was posted"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:48
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:62
+#, php-format
+msgid "%s posted on %s"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:48
+msgid "Facebook"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:155
+msgid "Facebook username"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:162
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_custom_post_types.class.php:64
+msgid "Number of items to display"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:170
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:105
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:101
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:130
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:248
+msgid "Length of excerpt (words)"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/facebook.class.php:178
+msgid "How many minutes should results be cached for?"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/free_form.class.php:18
+msgid "Free Form News Item"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/free_form.class.php:20
+msgid "Create your own news items"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/free_form.class.php:44
+msgid "Text"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/free_form.class.php:51
+msgid "Date"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:23
+msgid "Recent Comments"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:25
+msgid "Displays the most recent comments"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:28
+msgid "Display comment author"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:32
+msgid "Display excerpt of comment"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:36
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:22
+msgid "Display post title"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:40
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:44
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:34
+msgid "Display post URL"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:48
+msgid "Display date comment was made"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:52
+msgid "Display the time since the comment was made"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:56
+#, php-format
+msgid "%s commented on %s"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:89
+msgid "Number of comments to display"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_comments.class.php:97
+msgid "Include trackpacks and pingbacks"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_custom_post_types.class.php:17
+msgid "Recent Posts (Custom post types)"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_custom_post_types.class.php:19
+msgid "Displays the most recent items in one or more custom post types"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_custom_post_types.class.php:20
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:32
+msgid "Display item title"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_custom_post_types.class.php:21
+msgid "Display item excerpt"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_custom_post_types.class.php:22
+msgid "Display item author"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_custom_post_types.class.php:23
+msgid "Display item URL"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_custom_post_types.class.php:24
+msgid "Display item post date"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_custom_post_types.class.php:25
+msgid "Display the time elapsed since the item was created"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_custom_post_types.class.php:78
+msgid "Post types"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:17
+msgid "Recent Posts"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:19
+msgid "Displays the most recent posts"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:26
+msgid "Display post excerpt"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:30
+msgid "Display post author"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:38
+msgid "Display post date"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:42
+msgid "Display the time elapsed since the post was created"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:47
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:53
+#, php-format
+msgid "%s posted %s"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/recent_posts.class.php:93
+msgid "Number of posts to display"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:22
+msgid "RSS Feed"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:24
+msgid "Displays most items from an RSS feed"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:115
+msgid "Feed URL"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:122
+msgid "Number of feed items to display"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/rss.class.php:138
+msgid "How many minutes should feed results be cached for?"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:26
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:62
+msgid "Twitter"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:28
+msgid "Displays most recent tweets"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:30
+msgid "Add another Twitter feed"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:33
+msgid "Display username"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:37
+msgid ""
+"Display excerpt of tweet. Note that links are not preserved in excerpts."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:41
+msgid "Display full tweet"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:45
+msgid "Display link to Twitter profile"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:49
+msgid "Display link to individual tweet"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:53
+msgid "Display date tweet was made"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:57
+msgid "Display the time elapsed since the tweet was made"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:76
+#, php-format
+msgid ""
+"In order to use the Twitter data source, you must create a Twitter "
+"application and provide its details on the %sGeneral Settings%s page."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:217
+msgid "Twitter username"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:224
+msgid "Include retweets?"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:232
+msgid "Include replies?"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:240
+msgid "Number of tweets to display"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/data_sources/twitter.class.php:256
+msgid "How many minutes should tweets be cached for?"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:359
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:409
+msgid "jNewsticker"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:375
+msgid "minutes ago"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:375
+msgid "a minute ago"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:380
+msgid "hours ago"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:380
+msgid "an hour ago"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:385
+msgid "days ago"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:385
+msgid "yesterday"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:430
+msgid "News ticker has been deleted."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:434
+msgid "News ticker has been created"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:438
+msgid "Settings have been updated"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:453
+msgid "ID"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:454
+msgid "Title"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:455
+msgid "Style"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:456
+msgid "Data sources"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:463
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:503
+msgid "+ Create news ticker"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:471
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/widget.class.php:33
+msgid "None set"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:486
+msgid "Edit"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:492
+msgid "Delete"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:502
+msgid "You haven't created any news tickers yet. Get started by creating one."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:513
+msgid "None"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:516
+msgid "General Options"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:517
+msgid "Select skin"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:531
+msgid "Twitter API Settings"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:532
+msgid ""
+"In order to fetch tweets from Twitter, you have to create a Twitter "
+"application. This is much easier than it sounds!"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:533
+msgid "Follow these simple steps:"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:535
+#, php-format
+msgid "Go to %s to register your app. You may be asked to log in."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:536
+#, php-format
+msgid ""
+"Once you are logged in, click the button that says %sCreate a new application"
+"%s."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:537
+msgid ""
+"Complete the form, tick the terms and conditions and solve the Captcha. "
+"Create your application."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:538
+msgid ""
+"You have now created a Twitter application. The final step is to create an "
+"access token. Do this by clicking the button at the bottom of the page."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:539
+msgid ""
+"Finally, copy and paste the relevant details about your Twitter application "
+"into the fields below."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:542
+msgid "Consumer Key:"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:546
+msgid "Consumer Secret:"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:550
+msgid "Access Token:"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:554
+msgid "Access Token Secret:"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:560
+msgid "Save Settings"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker-for-wordpress.php:580
+#, php-format
+msgid "No class with class name \"%s\" found"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:247
+msgid "News ticker has been successfully updated"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:251
+#, php-format
+msgid "%sOops%s. Something went wrong while updating the newsticker."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:258
+msgid "View all news tickers"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:264
+msgid "Preview"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:272
+msgid "Update newsticker"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:272
+msgid "Create a newsticker"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:281
+msgid "General Settings"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:283
+msgid "Internal Title"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:285
+msgid ""
+"The internal title for the newsticker. This is how you will identify it in "
+"the admin area."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:288
+msgid "Title on ticker"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:290
+msgid "The title for the newsticker. Leave blank for no title."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:294
+msgid "Animation"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:296
+msgid "Fade"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:297
+msgid "Scroll"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:298
+msgid "Reveal"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:300
+msgid "The type of animation the newsticker uses."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:303
+msgid "Display controls"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:305
+msgid ""
+"Whether to display controls for manually pausing, resuming \n"
+"                  and moving to next and previous news items."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:309
+msgid "Start animation automatically"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:311
+msgid ""
+"Whether animation should start automatically when the newsticker \n"
+"                  is loaded."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:316
+msgid "Sort news items"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:318
+msgid "By date posted (newest items shown first)"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:319
+msgid "By date posted (oldest items shown first)"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:320
+msgid "Random"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:322
+msgid "How to sort news items."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:325
+msgid "Pause on hover"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:327
+msgid ""
+"If checked, the animation will pause when the user hovers over the "
+"newsticker."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:330
+msgid "Fade Animation Settings"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:332
+msgid "Fade out speed"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:334
+msgid "How fast a news item fades out, in milliseconds."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:338
+msgid "Fade in speed"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:340
+msgid "How fast a news item fades in, in milliseconds."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:344
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:360
+msgid "Speed of transition"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:346
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:362
+msgid ""
+"Length of time in milliseconds a news item is displayed before the next one."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:351
+msgid "Reveal Animation Settings"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:354
+msgid "Speed at which letters are revealed"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:356
+msgid "How fast letters are revealed, in milliseconds."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:367
+msgid "Scroll Animation Settings"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:370
+msgid "Speed of scroll"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:372
+msgid "Speed in milliseconds at which the scrolling action occurs."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:375
+msgid "Speed of slide"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:377
+msgid ""
+"Speed in milliseconds at which the slide between news items should occur."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:380
+msgid "Easing function"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:382
+msgid ""
+"The easing function used to slide between news items. jQuery comes with two "
+"available easing functions: <em>swing</em> and <em>linear</em>."
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:386
+msgid "Data Sources"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:416
+msgid "Save jNewsticker"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:424
+msgid "Integration"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:426
+msgid "Widget"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:428
+msgid "Shortcode"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/jnewsticker.class.php:430
+msgid "PHP"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/widget.class.php:14
+msgid ""
+"Add a newsticker style display of recent posts, comments, or various other "
+"potential news items"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/widget.class.php:17
+msgid "Newsticker"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/widget.class.php:29
+msgid "Select news ticker:"
+msgstr ""
+
+#: /Users/ericdaams/Dropbox/Development/Projects/WP/wp-content/plugins/jnewsticker-for-wordpress/widget.class.php:40
+#, php-format
+msgid "No news tickers have been configured yet. %sCreate one now%s"
+msgstr ""
