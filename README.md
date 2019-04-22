@@ -1,2 +1,3 @@
 # jNewsticker-for-WordPress
-Spice up your site with jNewsticker. Create as many news tickers as you want and display them using shortcodes, widgets or PHP.
+
+This plugin is not maintained or supported anymore. If you would like to fork it and give it new life, please feel free to do so. :)
